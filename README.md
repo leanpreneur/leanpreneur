@@ -12,4 +12,4 @@ My focus: moving engineering organizations from AI tools to an AI-native way of 
 ## Elsewhere
 
 - Writing: [abbasraza.com](https://abbasraza.com)
-- LinkedIn: [Abbas Raza](paste your LinkedIn URL here)
+- LinkedIn: [Abbas Raza](https://linkedin.com/in/abbasraza)
