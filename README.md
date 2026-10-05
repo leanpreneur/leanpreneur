@@ -1,4 +1,4 @@
-CTO at ReFocus AI. Over fifteen years leading engineering and product, including twelve years at SAP SuccessFactors, where I hold two patents (Intelligent Services and Business Process Engine). Founder of Shine Labs.
+CTO at ReFocus AI. Over fifteen years leading engineering and product, including twelve years at SAP SuccessFactors, where I hold two patents (Intelligent Services and Business Process Engine). 
 
 ## Featured
 
