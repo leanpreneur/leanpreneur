@@ -9,3 +9,4 @@ CTO at ReFocus AI. Over fifteen years leading engineering and product, including
 ## Elsewhere
 
 - Writing: [abbasraza.com](https://abbasraza.com)
+- LinkedIn: [Abbas Raza](https://linkedin.com/in/abbasraza)
